@@ -1,6 +1,6 @@
-# Basic Geometry Renderer
+# [Basic Geometry Renderer](https://clementcariou.github.io/Basic-Geometry-Renderer/build.html)
 
-![Screenshot](screenshot.PNG)
+[![Screenshot](screenshot.PNG)](https://clementcariou.github.io/Basic-Geometry-Renderer/build.html)
 
 Simple REGL point and line renderer using one quad per primitive. Good starting point to render abstract geometry. Can be a pretty useful visualisation tool for prototyping, testing and debugging.
 
