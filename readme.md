@@ -1,4 +1,4 @@
-# Points & Lines Renderer
+# Basic Geometry Renderer
 
 ![Screenshot](screenshot.png)
 
