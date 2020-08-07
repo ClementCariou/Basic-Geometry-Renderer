@@ -1,5 +1,5 @@
 {
-	"name": "better-points-and-lines",
+	"name": "basic-geometry-renderer",
 	"version": "1.0.0",
 	"scripts": {
 		"start": "budo src/index.js",
