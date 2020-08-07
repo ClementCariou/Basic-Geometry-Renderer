@@ -1,13 +1,8 @@
 'use strict';
-const fit = require("canvas-fit");
 const mat4 = require('gl-mat4');
 const vec3 = require('gl-vec3');
-const canvas = document.body.appendChild(document.createElement('canvas'));
-window.addEventListener('resize', fit(canvas), false);
 
-const regl = require('regl')({
-  canvas
-});
+const regl = require('regl')();
 
 const drawPoints = require('./points')(regl);
 const drawLines = require('./lines')(regl);
