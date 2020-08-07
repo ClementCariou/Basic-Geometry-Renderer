@@ -1,5 +1,6 @@
 {
 	"name": "basic-geometry-renderer",
+	"description": "Simple REGL point and line renderer using one quad per primitive.",
 	"version": "1.0.0",
 	"scripts": {
 		"start": "budo src/index.js",
